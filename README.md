@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Vladislav
 
-<!--
-**VladTeter/VladTeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Second-year Computer Science student** at a Spanish institute (Grado Medio - Informático)  
+📍 **Based in Alicante, Spain**
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about programming since age 12, actively coding for 4 years
+- 🐍 **Python enthusiast** - my main language of choice
+- 🤖 Currently diving deep into **LLM and AI technologies**
+- 🌱 Always learning and exploring new tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, C#, JavaScript
+- **Current Focus:** AI/ML, Large Language Models
+- **Interests:** Artificial Intelligence, Machine Learning, Backend Development
+
+## 🎯 What I'm Up To
+- 🔭 Exploring the fascinating world of AI and LLMs
+- 🌟 Building projects that combine traditional programming with modern AI
+- 📚 Balancing studies with hands-on coding experience
